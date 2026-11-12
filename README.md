@@ -8,13 +8,15 @@ I’m a master’s student in Computer Technology at Harbin Institute of Technol
 ## Education
 
 **Harbin Institute of Technology, Shenzhen** · Master’s in Computer Technology<br>
-HIT scholarship recipient · Full tuition waiver and monthly stipend
+Major Award Scholarship — 100% tuition waiver + CNY 1,000 monthly stipend.
+
+**Nanjing University of Posts & Telecommunications** · Bachelor’s in Computer Science and Technology
 
 ## Featured work
 
 | Project | What I built and what you can review |
 | --- | --- |
-| [RevokeTrace](https://github.com/bunnybunss/revoketrace) | A testbed for checking whether a retrieval-augmented generation system respects document access revocation. Explore the [architecture](https://github.com/bunnybunss/revoketrace#architecture), Qwen experiments, PDF reports, and [v0.8.0 release](https://github.com/bunnybunss/revoketrace/releases/tag/v0.8.0). |
+| [RevokeTrace](https://github.com/bunnybunss/revoketrace) | A testbed for checking whether a retrieval-augmented generation system respects document access revocation.<br>[Live recorded demonstration](https://revoketrace.onrender.com/) · [Source code](https://github.com/bunnybunss/revoketrace) · [Experimental results](https://github.com/bunnybunss/revoketrace#results) |
 | [ClarityGRC](https://github.com/bunnybunss/claritygrc) | An assessment tool that turns requirements from frameworks such as the EU AI Act, GDPR, and ISO/IEC 42001 into questions that reviewers can work through. |
 | [Secure Vault](https://github.com/bunnybunss/secure-vault) | A public portfolio edition of my bachelor’s file-sharing project. It demonstrates AES-256-GCM encryption and password-protected, expiring shares. The README includes a local demo, tests, and deployment limitations. |
 
@@ -26,12 +28,14 @@ HIT scholarship recipient · Full tuition waiver and monthly stipend
 
 ## Technical skills
 
-| Area | Tools and methods |
+| Category | Skills |
 | --- | --- |
-| Software engineering | Python, Flask, SQLite, automated tests |
-| AI security evaluation | Retrieval-augmented generation, document access revocation, Qwen experiments |
-| Applied cryptography | AES-GCM authenticated encryption, password-based key derivation |
-| Security assurance | Translating regulatory and standards requirements into assessment workflows |
+| Programming | Python |
+| Backend | Flask (Secure Vault), FastAPI (RevokeTrace) |
+| Databases | SQLite |
+| AI security | RAG security, access control |
+| Cryptography | AES-GCM |
+| Testing | Automated security testing |
 
 ## Contact
 
