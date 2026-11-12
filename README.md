@@ -7,10 +7,18 @@ I’m a master’s student in Computer Technology at Harbin Institute of Technol
 
 ## Education
 
-**Harbin Institute of Technology, Shenzhen** · Master’s in Computer Technology<br>
-Major Award Scholarship — 100% tuition waiver + CNY 1,000 monthly stipend.
+**Harbin Institute of Technology, Shenzhen**<br>
+Master’s in Computer Technology · Fall 2025 – Present<br>
+Major Award Scholarship · 100% tuition waiver and CNY 1,000 monthly stipend<br>
+Research · Malware detection and explainable AI
 
-**Nanjing University of Posts & Telecommunications** · Bachelor’s in Computer Science and Technology
+**Nanjing University of Posts & Telecommunications**<br>
+Bachelor’s in Computer Science and Technology
+
+## Academic achievements
+
+- Selected through competitive admission to HIT Shenzhen and awarded the Major Award Scholarship.
+- Earned first-class scholarships in all eight semesters of my bachelor’s degree.
 
 ## Featured work
 
@@ -28,12 +36,16 @@ Major Award Scholarship — 100% tuition waiver + CNY 1,000 monthly stipend.
 
 ## Technical skills
 
-| Category | Skills |
+| Area | Skills |
 | --- | --- |
-| Programming & Development | Python, SQL, Flask (Secure Vault), FastAPI (RevokeTrace), SQLite, Git, Linux, AWS (fundamentals) |
-| Cybersecurity | Application security, RAG security, access control, AES-256-GCM, cloud security, GRC, ISO 27001, DORA, malware analysis, network security, security monitoring, incident response, automated security testing |
-| Machine Learning & AI | Machine learning, Random Forest, XGBoost, LightGBM, neural networks, explainable AI, SHAP, LIME, static PE analysis, EMBER 2018 dataset |
-| Computer Science Foundations | Data structures, algorithms, operating systems, database systems, computer networks, distributed systems, information security |
+| Programming & Software Engineering | Python, Flask, FastAPI, SQLite, Git and GitHub, automated testing, GitHub Actions CI |
+| Cybersecurity & AI Security | RAG security, access control and authorization, document access revocation, AI application security assessment, security assurance and GRC, cloud security fundamentals |
+| Machine Learning & Research | Malware detection, explainable AI, XGBoost, LightGBM, Random Forest |
+| Applied Cryptography | AES-GCM authenticated encryption, password-based key derivation |
+
+## Virtual job simulations
+
+Completed online job simulations associated with Deloitte, PwC, and Tata Communications.
 
 ## Contact
 
