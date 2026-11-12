@@ -38,14 +38,29 @@ Bachelor’s in Computer Science and Technology
 
 | Area | Skills |
 | --- | --- |
-| Programming & Software Engineering | Python, Flask, FastAPI, SQLite, Git and GitHub, automated testing, GitHub Actions CI |
-| Cybersecurity & AI Security | RAG security, access control and authorization, document access revocation, AI application security assessment, security assurance and GRC, cloud security fundamentals |
-| Machine Learning & Research | Malware detection, explainable AI, XGBoost, LightGBM, Random Forest |
-| Applied Cryptography | AES-GCM authenticated encryption, password-based key derivation |
+| Programming & Software Engineering | Python, Flask, FastAPI, SQLite, Git and GitHub, automated testing, GitHub Actions CI, Linux |
+| Cybersecurity & Security Engineering | Application and RAG security, access control and authorization, document access revocation, security assessment, cloud security fundamentals, governance, risk and compliance (GRC), applied cryptography, AES-GCM, password-based key derivation |
+| Machine Learning & AI Research | Malware detection, explainable AI (XAI), XGBoost, LightGBM, Random Forest |
+| Computer Science Foundations | Data structures and algorithms, operating systems, computer networks, database systems, distributed systems, information security |
 
-## Virtual job simulations
+## Selected Certifications
 
-Completed online job simulations associated with Deloitte, PwC, and Tata Communications.
+| Course or specialization | Provider |
+| --- | --- |
+| [Security: A Comprehensive Approach](https://www.coursera.org/specializations/security-a-comprehensive-approach) | Illinois Institute of Technology |
+| [Cyber Security: Security of AI](https://www.coursera.org/learn/cyber-security-security-ai) | Macquarie University |
+| [Cloud Computing Security - Master's](https://www.coursera.org/learn/illinois-tech-cloud-computing-security-mit) | Illinois Institute of Technology |
+| [Cyber Attack Countermeasures](https://www.coursera.org/learn/cyber-attack-countermeasures) | New York University |
+| [Generative AI for Cybersecurity Professionals](https://www.coursera.org/learn/generative-ai-cybersecurity-professionals) | IBM |
+| [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | Amazon Web Services |
+
+## Virtual Job Simulations
+
+| Organization | Forage programme | Completed |
+| --- | --- | --- |
+| AIG | [Shields Up: Cybersecurity](https://www.theforage.com/simulations/aig/cybersecurity-ku1i) | July 1, 2026 |
+| Datacom | [Cyber Security Operations](https://www.theforage.com/simulations/datacom/cybersecurity-zm6d) | December 19, 2025 |
+| Deloitte | [Cyber](https://www.theforage.com/simulations/deloitte-au/cyber-c1e3) | December 12, 2025 |
 
 ## Contact
 
