@@ -40,12 +40,12 @@ Bachelor’s in Computer Science and Technology
 | --- | --- |
 | Programming & Software Engineering | Python, Flask, FastAPI, SQLite, Git and GitHub, automated testing, GitHub Actions CI, Linux |
 | Cybersecurity & Security Engineering | Application and RAG security, access control and authorization, document access revocation, security assessment, cloud security fundamentals, governance, risk and compliance (GRC), applied cryptography, AES-GCM, password-based key derivation |
-| Machine Learning & AI Research | Malware detection, explainable AI (XAI), XGBoost, LightGBM, Random Forest |
+| Machine Learning & AI Research | Random Forest, XGBoost, LightGBM, and multilayer perceptron (MLP) for malware detection. Sigmoid model calibration. Classification evaluation using ROC-AUC, precision, recall, F1, log loss, and Brier score. Operating threshold selection based on target false-positive rates. False-positive and detection-rate analysis. |
 | Computer Science Foundations | Data structures and algorithms, operating systems, computer networks, database systems, distributed systems, information security |
 
 ## Selected Certifications
 
-| Course or specialization | Provider |
+| Course or specialization (catalog link) | Provider |
 | --- | --- |
 | [Security: A Comprehensive Approach](https://www.coursera.org/specializations/security-a-comprehensive-approach) | Illinois Institute of Technology |
 | [Cyber Security: Security of AI](https://www.coursera.org/learn/cyber-security-security-ai) | Macquarie University |
@@ -53,6 +53,8 @@ Bachelor’s in Computer Science and Technology
 | [Cyber Attack Countermeasures](https://www.coursera.org/learn/cyber-attack-countermeasures) | New York University |
 | [Generative AI for Cybersecurity Professionals](https://www.coursera.org/learn/generative-ai-cybersecurity-professionals) | IBM |
 | [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | Amazon Web Services |
+
+The links above open provider course catalogs. Personal credential verification links are currently unavailable.
 
 ## Virtual Job Simulations
 
