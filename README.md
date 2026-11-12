@@ -30,12 +30,10 @@ Major Award Scholarship — 100% tuition waiver + CNY 1,000 monthly stipend.
 
 | Category | Skills |
 | --- | --- |
-| Programming | Python |
-| Backend | Flask (Secure Vault), FastAPI (RevokeTrace) |
-| Databases | SQLite |
-| AI security | RAG security, access control |
-| Cryptography | AES-GCM |
-| Testing | Automated security testing |
+| Programming & Development | Python, SQL, Flask (Secure Vault), FastAPI (RevokeTrace), SQLite, Git, Linux, AWS (fundamentals) |
+| Cybersecurity | Application security, RAG security, access control, AES-256-GCM, cloud security, GRC, ISO 27001, DORA, malware analysis, network security, security monitoring, incident response, automated security testing |
+| Machine Learning & AI | Machine learning, Random Forest, XGBoost, LightGBM, neural networks, explainable AI, SHAP, LIME, static PE analysis, EMBER 2018 dataset |
+| Computer Science Foundations | Data structures, algorithms, operating systems, database systems, computer networks, distributed systems, information security |
 
 ## Contact
 
